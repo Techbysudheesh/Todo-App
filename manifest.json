@@ -1,5 +1,5 @@
 {
-    "name": "Todo PWA",
+    "name": "Todo List",
     "short_name": "Todo",
     "icons": [
       {
@@ -25,7 +25,7 @@
     ],
     "theme_color": "#FFFFFF",
     "background_color": "#FFFFFF",
-    "start_url": "/PWA-TodoApp/",
+    "start_url": "/TodoApp/",
     "display": "standalone",
     "orientation": "portrait"
   }
