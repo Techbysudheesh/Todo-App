@@ -1,1 +1,1 @@
-This is a simple Todo List creation App - sample
+A simple Todo PWA(Progressive Web Application) using indexedDB as database and Workbox for offline viewing.
