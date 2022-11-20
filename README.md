@@ -1,1 +1,1 @@
-This is an simple Todo List creation App sample
+This is a simple Todo List creation App - sample
